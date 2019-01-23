@@ -9,5 +9,5 @@ Stupidc0de Shell, Development on b374k and Gallers Shell
 <br />
 <a href="https://4.bp.blogspot.com/-tO5zzaDAzsU/XDCCi7PkDzI/AAAAAAAAIsE/5LgK1Bt9hOMMne4hDqcWBw9d_CKIxdneQCLcBGAs/s1600/Screenshot_4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="878" data-original-width="1600" height="351" src="https://4.bp.blogspot.com/-tO5zzaDAzsU/XDCCi7PkDzI/AAAAAAAAIsE/5LgK1Bt9hOMMne4hDqcWBw9d_CKIxdneQCLcBGAs/s640/Screenshot_4.jpg" width="640" /></a><br />
 <br />
-Default passwd: asu<br />
+Defpasswd: asu<br />
 read 'about' in submenu for copyright
