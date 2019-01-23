@@ -1,6 +1,5 @@
 # Stupidc0de-Shell-2016
 Stupidc0de Shell, Development on b374k and Gallers Shell
-
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
